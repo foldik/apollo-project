@@ -18,7 +18,7 @@ exports.apolloProject = function (settings) {
 
     function template(templetaName) {
         return function() {
-            retunr fs.readFileSync(__dirname + '\\resources\\' + templetaName, 'utf-8');
+            return fs.readFileSync(__dirname + '\\resources\\' + templetaName, 'utf-8');
         }
     }
 
