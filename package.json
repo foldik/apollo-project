@@ -1,0 +1,22 @@
+{
+  "name": "apollo-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "apollo-project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foldik/apollo-project.git"
+  },
+  "keywords": [
+    "project-template"
+  ],
+  "author": "foldik <foldi.kristof@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foldik/apollo-project/issues"
+  },
+  "homepage": "https://github.com/foldik/apollo-project#readme"
+}
