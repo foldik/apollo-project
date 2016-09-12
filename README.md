@@ -82,5 +82,9 @@ You can reach the service on [localhost:8787/hi](http://localhost:8787/hi)
 
 # ![greeting-service-example](media/greeting-service-example.png)
 
+Soo easy...
+
+# ![dancing-cat](http://giphy.com/gifs/UZzuqeBeRcD3W/html5)
+
 ## License
 ISC
