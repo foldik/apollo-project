@@ -78,8 +78,9 @@ $ mvn clean package
 $ java -jar target/hello-app-1.0-SNAPSHOT.jar
 ```
 
-You can reach the service on [localhost:8787/hi](localhost:8787/hi)
+You can reach the service on [localhost:8787/hi](http://localhost:8787/hi)
 
+# ![greeting-service-example](media/greeting-service-example.png)
 
 ## License
 ISC
